@@ -37,9 +37,8 @@ My name is Muhammad Hassaan and i am ComputerScience student of Air University I
     <a href="https://getbootstrap.com/" target="_blank">
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    </a>
-    <br />
-    <br />
+        </a>
+ </p>
    
 ## 📊 Github Stats
 <p>
