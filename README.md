@@ -22,10 +22,7 @@ My name is Muhammad Hassaan and i am ComputerScience student of Air University I
 
 
 ## 🛠️ My Skills
-
-<p>
-   
-    <summary><b>Frontend Developement</b></summary>
+<summary><b>Frontend Developement</b></summary>
     <a href="https://www.w3.org/html/" target="_blank">
         <img alt="HTML"
             src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -34,11 +31,20 @@ My name is Muhammad Hassaan and i am ComputerScience student of Air University I
         <img alt="CSS"
             src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     </a>
+    <a href="https://www.w3schools.com/react/" target="_blank">
+        <img alt="ReactJS"
+            src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    </a>
+    <a href="https://mui.com/" target="_blank">
+        <img alt="Material-UI"
+            src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
+    </a>
     <a href="https://getbootstrap.com/" target="_blank">
         <img alt="Bootstrap"
             src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-        </a>
- </p>
+    </a>
+
+
    
 ## 📊 Github Stats
 <p>
